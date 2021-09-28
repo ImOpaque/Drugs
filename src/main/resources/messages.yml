@@ -1,0 +1,4 @@
+no-permssion: "&cSorry, you dont have permission to use this command."
+incorrect-usage: "&4&l[!] &cWrong Usage! &ePlease use /drug give <player> <drug> <amount>"
+offline-player: "&4&l[!] &cPlayer is offline"
+invalid-strain: "&4&l[!] &cSorry but that strain doesn't exist! try /drug list"

@@ -1,0 +1,16 @@
+name: Test
+main: me.opaque.test.Test
+version: 1.0
+author: Opaque
+api-version: 1.16
+softdepend: [ParticleLib]
+
+commands:
+  drug:
+    description: Main command
+    usage: /drug
+    permmission: drug.admin
+
+permissions:
+  drug.admin:
+    description: fuck you

@@ -1,0 +1,33 @@
+debug: false
+strains:
+  ogkush:
+    crossBreed:
+      chance:
+      strain:
+    material: WHEAT_SEEDS
+    name: "&5&lOG Kush"
+    lore:
+      - '&dplant this seed'
+    item-output:
+      material: CACTUS
+      name: "&5&lOG Kush"
+      lore:
+        - 'this'
+        - 'will'
+        - 'get'
+        - 'you'
+        - 'high'
+  purpleNurple:
+    material: WHEAT_SEEDS
+    name: "&b&lPurple Nurple"
+    lore:
+      - 'yes'
+    item-output:
+      material: CACTUS
+      name: "&5&lOG Kush"
+      lore:
+        - 'this'
+        - 'will'
+        - 'get'
+        - 'you'
+        - 'high'
